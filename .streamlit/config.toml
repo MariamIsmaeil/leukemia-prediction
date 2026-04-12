@@ -1,0 +1,23 @@
+[theme]
+# اللون الأساسي (أزرق غامق جميل)
+primaryColor = "#1E88E5"
+
+# لون الخلفية (أبيض نقي)
+backgroundColor = "#FFFFFF"
+
+# لون الخلفية الثانوي (رمادي فاتح)
+secondaryBackgroundColor = "#F5F5F5"
+
+# لون النص
+textColor = "#1A1A1A"
+
+# نوع الخط
+font = "sans serif"
+
+[server]
+# الحد الأقصى لحجم الملف المرفوع (200MB)
+maxUploadSize = 200
+
+[browser]
+# تجميع إحصائيات الاستخدام (false عشان الخصوصية)
+gatherUsageStats = false
